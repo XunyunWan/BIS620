@@ -24,5 +24,6 @@ Suggests:
     vdiffr
 Config/testthat/edition: 3
 Depends: 
-    R (>= 2.10)
-VignetteBuilder: knitr
+    R (>= 2.10
+)
+VVignetteBuilder: knitr
