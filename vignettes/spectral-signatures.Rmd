@@ -2,7 +2,7 @@
 title: "Spectral Signatures using BIS620 package"
 output: rmarkdown::html_vignette
 vignette: >
-  %\VignetteIndexEntry{spectral-signatures}
+  %\VignetteIndexEntry{Spectral Signatures using BIS620 package}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---
