@@ -1,6 +1,6 @@
 Package: BIS620
 Type: Package
-Title: Functions and Data for the BIS620 (2023) Class
+Title: Functions and Data for the BIS620 Class
 Version: 0.1.0
 Author: Xunyun Wan
 Maintainer: The package maintainer <xunyun.wan@yale.edu>
