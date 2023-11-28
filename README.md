@@ -4,6 +4,8 @@
 # BIS620
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/XunyunWan/BIS620/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/XunyunWan/BIS620/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of BIS620 is to …
